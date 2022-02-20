@@ -11,13 +11,13 @@
   - C / C++
   - NodeJS
   - ReactJS
-  - R
   
 - ⌨ Able to program in:
   - Python
   - Javascript
   - PHP
   - HTML / CSS
+  - R
 
 - 💞️ I’m looking to collaborate on:
   - OS projects
