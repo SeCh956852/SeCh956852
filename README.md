@@ -6,22 +6,13 @@
   - Artificial Intelligence
   - Web Development
   - Cyber Security
-
-- 🌱 I’m currently learning:
-  - C / C++
-  - NodeJS
-  - ReactJS
   
 - ⌨ Able to program in:
   - Python
   - Javascript
   - PHP
   - HTML / CSS
-  - R
-
-- 💞️ I’m looking to collaborate on:
-  - OS projects
-  - Any other projects within my abilities and interests
+  - C / C++
 
 - 📫 How to reach me:
   - devsech852@gmail.com
