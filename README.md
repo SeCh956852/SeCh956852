@@ -10,9 +10,8 @@
 - ⌨ Able to program in:
   - Python
   - Javascript
-  - PHP
   - HTML / CSS
-  - C / C++
+  - C / C#
 
 - 📫 How to reach me:
   - devsech852@gmail.com
